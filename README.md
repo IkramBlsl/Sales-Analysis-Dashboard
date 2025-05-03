@@ -29,3 +29,36 @@ Les données proviennent de la feuille Sheet1 et incluent :
         Population (Population associée à chaque pays)
 
         Date (année, mois)
+
+Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer avant d'appliquer les analyses
+
+## 🔍 Fonctions principales
+### 🧭 Filtres interactifs
+
+    Pays : sélection multi-pays
+
+    Année : sélection de l'année d'analyse
+
+### 📈 KPI Cards (indicateurs clés)
+
+    Revenue total
+
+    Units vendues
+
+    Coût total
+
+    Profit total
+
+### 📊 Visualisations
+
+    Barres empilées : Somme des revenus par produit
+
+    Carte du monde : Revenu par pays
+
+    Camembert : Répartition des unités vendues par pays
+
+    Histogramme : Revenu par mois
+
+    Tableau : Détail des performances produit/pays
+
+    Graphique horizontal : Profit par produit
