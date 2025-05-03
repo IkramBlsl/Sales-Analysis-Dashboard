@@ -48,7 +48,25 @@ Cost : coût direct (ex : coût de fabrication ou d’achat)
 
 Profit brut = Revenue - Cost
 
+Exemple simple :
 
+Produit	: A
+
+Revenue (€)	: 1 000
+
+Cost (€): 600
+
+GP Margin (%) : (1000 - 600) / 1000 × 100 = 40%		
+
+Cela veut dire que pour chaque euro gagné, 40 centimes restent comme profit brut avant les autres dépenses.
+
+À quoi ça sert ?
+
+    Comparer la rentabilité entre différents produits ou marchés
+
+    Identifier les produits les plus profitables
+
+    Suivre l’effet des promotions ou des baisses de coûts
 
 2 - Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer avant d'appliquer les analyses
 
