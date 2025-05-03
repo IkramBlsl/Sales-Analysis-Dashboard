@@ -34,9 +34,14 @@ Les données proviennent de la feuille Sheet1 et incluent :
 
     GP Margin = (Profit brut / Revenu total) × 100
 
-Elle mesure la rentabilité d’un produit ou d’une entreprise avant les frais fixes, comme les salaires, loyers, etc.
+### Remarques :
+
+1 - GP Margin mesure la rentabilité d’un produit ou d’une entreprise avant les frais fixes, comme les salaires, loyers, etc.
+
 Formule en détail :
+
 GP Margin (%) = [(Revenue - Cost) / Revenue ] × 100
+
 Revenue : chiffre d’affaires (ventes totales)
 
 Cost : coût direct (ex : coût de fabrication ou d’achat)
@@ -44,7 +49,8 @@ Cost : coût direct (ex : coût de fabrication ou d’achat)
 Profit brut = Revenue - Cost
 
 
-Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer avant d'appliquer les analyses
+
+2 - Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer avant d'appliquer les analyses
 
 ## 🔍 Fonctions principales
 ### 🧭 Filtres interactifs
