@@ -60,5 +60,5 @@ Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer a
     Histogramme : Revenu par mois
 
     Tableau : Détail des performances produit/pays
-
-    Graphique horizontal : Profit par produit
+ 
+    Graphique horizontal : Profit par produit 
