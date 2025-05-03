@@ -24,11 +24,17 @@ Les données proviennent de la feuille Sheet1 et incluent :
 
         Units Sold (Unités vendues)
 
-        GP Margin (Marge brute)
-
         Population (Population associée à chaque pays)
 
         Date (année, mois)
+        
+        GP Margin (Marge brute)
+
+        Définition :
+
+    GP Margin = (Profit brut / Revenu total) × 100
+
+Elle mesure la rentabilité d’un produit ou d’une entreprise avant les frais fixes, comme les salaires, loyers, etc.
 
 Dans le fichier sheet1 initial, il y a des colonnes vides qu'il faut supprimer avant d'appliquer les analyses
 
