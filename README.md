@@ -100,3 +100,7 @@ Cela veut dire que pour chaque euro gagné, 40 centimes restent comme profit bru
     Tableau : Détail des performances produit/pays
  
     Graphique horizontal : Profit par produit 
+
+### Overview
+
+![image](https://github.com/user-attachments/assets/946ecc8b-2710-4a36-b861-dab6995da761)
